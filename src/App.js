@@ -5,7 +5,9 @@ import GlobalStyles from "./styles/Global";
 import { Home } from './pages';
 
 const theme = {
-  primary: '#222'
+  primary: 'hsl(26, 100%, 55%)',
+  primaryLight: 'hsl(25, 100%, 94%)',
+  secondary: 'hsl(219, 9%, 45%)'
 }
 
 const App = () => {
