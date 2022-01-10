@@ -7,7 +7,8 @@ import { Home } from './pages';
 const theme = {
   primary: 'hsl(26, 100%, 55%)',
   primaryLight: 'hsl(25, 100%, 94%)',
-  secondary: 'hsl(219, 9%, 45%)'
+  secondary: 'hsl(219, 9%, 45%)',
+  secondaryLight: 'hsl(220, 14%, 75%)'
 }
 
 const App = () => {
